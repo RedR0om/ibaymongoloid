@@ -1,0 +1,49 @@
+
+/* h1 title color */
+h1{color:darkcyan;}
+
+			#div1{
+				height: 350px;
+				width: 48%;
+				padding: 1%;
+				background-color: #0D6EFD;
+				float: left;
+			}
+
+			#div2{
+				height: 350px;
+				width: 48%;
+				padding: 1%;
+				background-color: darkcyan;
+				float: left;
+    			
+			}
+
+			#div3{
+				height: 350px;
+				width: 48%;
+				padding: 1%;
+				background-color: #FF9C5B;
+				float: right;
+    			
+			}
+
+			#div4{
+				height: 350px;
+				width: 48%;
+				padding: 1%;
+				background-color: #C695C6;
+				float: right;
+    			
+			}
+
+
+			p{
+				font-family: "Lucida Console", monospace;
+			}
+			li{
+				font-family: "Lucida Console", monospace;
+			}
+			a{
+				font-family: "Lucida Console", monospace;
+			}
